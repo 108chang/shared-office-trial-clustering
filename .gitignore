@@ -1,0 +1,13 @@
+data/*
+!data/README.md
+*.csv
+*.csv.gz
+*.xlsx
+*.parquet
+*.pkl
+*.joblib
+.env
+.env.*
+__pycache__/
+.ipynb_checkpoints/
+.venv/
