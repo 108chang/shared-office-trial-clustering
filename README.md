@@ -1,5 +1,9 @@
 # 공유오피스 무료체험 고객 행동 군집화
 
+[분석 결과 대시보드 열기](https://108chang.github.io/shared-office-trial-clustering/dashboard.html) · [HTML 파일 다운로드](dashboard.html)
+
+대시보드에서 집계 지표를 비교하고 차트의 원본 집계표를 확인할 수 있습니다. HTML 파일은 다운로드한 뒤 브라우저에서도 열 수 있습니다.
+
 **무료체험 고객 6,202명의 이용 행동을 KMeans로 5개 유형으로 구분하고, 군집별 결제율과 운영 개선안을 정리한 프로젝트입니다.**
 
 코드잇 스프린트 DA16 · PART3 중급2 · 포카드(4인 팀) · 2026.09.11–2026.09.29
@@ -161,5 +165,6 @@ shared-office-trial-clustering/
 
 - [따릉이 이용 패턴 — 대용량 데이터 정제와 EDA](https://github.com/108chang/seoul-bike-usage-analysis)
 - [채용 플랫폼 북마크 — 행동 로그와 사용자 세그먼트](https://github.com/108chang/job-platform-bookmark-analysis)
+
 
 
